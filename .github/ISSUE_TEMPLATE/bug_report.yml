@@ -1,8 +1,8 @@
 ---
-name: Feature Request
-description: Request a feature or enhancement
-title: "[FEATURE]: type here a short description"
-labels: [enhancement, feature]
+name: Bug report
+description: Report un bug
+title: "[Bug]: Remplace cela par le bug en question"
+labels: [Bug]
 
 body:
 - type: markdown

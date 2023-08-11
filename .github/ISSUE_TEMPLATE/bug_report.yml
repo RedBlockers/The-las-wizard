@@ -30,7 +30,7 @@ body:
   validations:
     required: true
 - type: dropdown
-  id: scope
+  id: scope2
   attributes:
     label: Scope
     description: Comment estimez vous la fréquence a laquelle apparais ce bug ?

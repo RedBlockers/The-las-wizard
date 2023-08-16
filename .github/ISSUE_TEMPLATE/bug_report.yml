@@ -30,9 +30,9 @@ body:
   validations:
     required: true
 - type: dropdown
-  id: fréquence du bug
+  id: Scope2
   attributes:
-    label: Scope2
+    label: fréquence du bug
     description: Comment estimez vous la fréquence a laquelle apparais ce bug ?
     multiple: true
     options:

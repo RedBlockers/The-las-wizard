@@ -13,13 +13,14 @@ body:
 - type: dropdown
   id: scope
   attributes:
-    label: Scope
-    description: What part of txAdmin is this feature targeting?
+    label: Partie visée
+    description: Quelle partie du jeux cela touche t'il ?
     multiple: true
     options:
-      - Web
-      - In-Game Menu
-      - Developer API
+      - Menu en jeux/HUD
+      - Scrpits
+      - Nouvelle mécanique 
+      - Nouveaux mobs
   validations:
       required: true
 - type: textarea

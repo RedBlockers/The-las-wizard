@@ -52,9 +52,9 @@ body:
     description: |
       Décrivez au mieux les étapes pour reproduire ce bug
     placeholder: Ex.
-      1. Allez dans la ville du désert
-      2. Parlez au PNJ dans l'armurerie
-      3. Le PNJ va faire du breakdance
+      1. Allez dans la ville du désert\n
+      \n2. Parlez au PNJ dans l'armurerie\n
+      \n3. Le PNJ va faire du breakdance\n
 - type: textarea
   id: solution
   attributes:

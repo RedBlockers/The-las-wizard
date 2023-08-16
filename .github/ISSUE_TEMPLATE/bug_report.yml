@@ -51,7 +51,7 @@ body:
     label: Comment le reproduire
     description: |
       Décrivez au mieux les étapes pour reproduire ce bug
-    placeholder: Ex.\n1- Allez dans la ville du desert\n2- Parlez au PNJ dans l'armurerie\n3- Le PNJ vas faire du breakdance
+    placeholder: Ex. \n 1- Allez dans la ville du desert \n 2- Parlez au PNJ dans l'armurerie \n 3- Le PNJ vas faire du breakdance
 - type: textarea
   id: solution
   attributes:

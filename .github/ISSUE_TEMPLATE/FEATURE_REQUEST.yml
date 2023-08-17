@@ -8,8 +8,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ## Thank you for filling out this feature/enhancement request
-      Please fill out this short template to the best of your ability.
+      ## Merci de nous aider à ameliorer ce jeu en remplaçant ce questionnaire 
 - type: dropdown
   id: scope
   attributes:
@@ -26,26 +25,26 @@ body:
 - type: textarea
   id: feat-description
   attributes:
-    label: Feature Description
-    description: Please provide a short and concise description of the feature you are suggesting.
+    label: Descrpition de la fonctionnalité 
+    description: Veuillez fournir une description courte et concise de la fonctionnalité que vous suggérez.
   validations:
     required: true
 - type: textarea
   id: use-case
   attributes:
-    label: Use Case
+    label: cas d'usage 
     description: |
-      What use-case (a scenario where you want to do "x", but are limited) do
-      you have for requesting this feature?
-    placeholder: Ex. I wanted to do `x` but was unable too...
+      Quel cas d'utilisation (un scénario où vous voulez faire "x", mais êtes limité) faire
+       avez-vous pour demander cette fonctionnalité ?
+    placeholder: Ex.  Je voulais faire `x` mais je n'en étais pas capable non plus...
 - type: textarea
   id: solution
   attributes:
-    label: Proposed Solution
-    description: Do you have an idea for a proposed solution. If so, please describe it.
+    label: solution proposée 
+    description: Avez-vous une idée pour une solution proposée.  Si oui, veuillez le décrire.
 - type: textarea
   attributes:
-    label: Additional Info
+    label: Info additionnelles 
     description: |
-      Is there any additional information you would like to provide?
+      Y a-t-il des informations supplémentaires que vous souhaiteriez fournir ?
     placeholder: Screenshots, logs, etc
